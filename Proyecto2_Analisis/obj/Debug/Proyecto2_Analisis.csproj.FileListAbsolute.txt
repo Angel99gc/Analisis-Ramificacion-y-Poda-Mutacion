@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Dropbox\Proyecto2_Analisis\Proyecto2_Analisis\obj\Debug\Proyecto2_Analisis.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Dropbox\Proyecto2_Analisis\Proyecto2_Analisis\obj\Debug\Proyecto2_Analisis.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Dropbox\Proyecto2_Analisis\Proyecto2_Analisis\bin\Debug\Proyecto2_Analisis.exe.config
+C:\Users\ADMIN\Dropbox\Proyecto2_Analisis\Proyecto2_Analisis\bin\Debug\Proyecto2_Analisis.exe
+C:\Users\ADMIN\Dropbox\Proyecto2_Analisis\Proyecto2_Analisis\bin\Debug\Proyecto2_Analisis.pdb
+C:\Users\ADMIN\Dropbox\Proyecto2_Analisis\Proyecto2_Analisis\obj\Debug\Proyecto2_Analisis.exe
+C:\Users\ADMIN\Dropbox\Proyecto2_Analisis\Proyecto2_Analisis\obj\Debug\Proyecto2_Analisis.pdb
+C:\Users\Jason\Dropbox\Proyecto2_Analisis\Proyecto2_Analisis\bin\Debug\Proyecto2_Analisis.exe.config
+C:\Users\Jason\Dropbox\Proyecto2_Analisis\Proyecto2_Analisis\bin\Debug\Proyecto2_Analisis.exe
+C:\Users\Jason\Dropbox\Proyecto2_Analisis\Proyecto2_Analisis\bin\Debug\Proyecto2_Analisis.pdb
+C:\Users\Jason\Dropbox\Proyecto2_Analisis\Proyecto2_Analisis\obj\Debug\Proyecto2_Analisis.csprojAssemblyReference.cache
+C:\Users\Jason\Dropbox\Proyecto2_Analisis\Proyecto2_Analisis\obj\Debug\Proyecto2_Analisis.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Dropbox\Proyecto2_Analisis\Proyecto2_Analisis\obj\Debug\Proyecto2_Analisis.exe
+C:\Users\Jason\Dropbox\Proyecto2_Analisis\Proyecto2_Analisis\obj\Debug\Proyecto2_Analisis.pdb
